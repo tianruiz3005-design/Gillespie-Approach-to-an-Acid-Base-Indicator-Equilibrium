@@ -1,2 +1,2 @@
-# Chemistry-Data-Analysis-Using-Financial-Models
-Relating my degree with finance to better understand how STEM is utilised in society.
+# This project aims to compare the Gillespie algorithm approach to Acid-Base indicator equilibrium against traditional deterministic ODE approach. 
+
