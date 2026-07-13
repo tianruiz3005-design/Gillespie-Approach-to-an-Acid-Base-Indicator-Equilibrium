@@ -17,4 +17,4 @@ How to run:
 
 Install dependencies with pip install -r requirements.txt, then run script.py
 
-Please see project_write_up.pdf for full theory and analysis of this project.
+Please see [Full Write Up](A) for full theory and analysis of this project.
