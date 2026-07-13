@@ -15,8 +15,6 @@ The stationary count distribution i.e. the distribution mentioned above, is a bi
 
 How to run:
 
-
 Install dependencies with pip install -r requirements.txt, then run script.py
 
-
-Please see 
+Please see project_write_up.pdf for full theory and analysis of this project.
